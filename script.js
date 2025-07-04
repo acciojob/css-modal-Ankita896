@@ -1,4 +1,4 @@
-ocument.getElementById('openModal').onclick = function() {
+document.getElementById('openModal').onclick = function() {
     document.getElementById('modal').style.display = "block";
 }
 
